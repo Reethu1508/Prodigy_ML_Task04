@@ -8,7 +8,9 @@ Task Overview:
 
 -Model selection: Choose an appropriate machine learning or deep learning method for gesture recognition. Try different architectures to find the best one. 
 
--Model training: Train the selected model on the proposed data and optimize hyperparameters for better performance. -Evaluation: evaluate the model's performance, precision, recall, and F1 score using metrics such as precision. 
+-Model training: Train the selected model on the proposed data and optimize hyperparameters for better performance. 
+
+-Evaluation: evaluate the model's performance, precision, recall, and F1 score using metrics such as precision. 
 
 -Visualization: Visualize the model's projection on a sample image or video frame to understand its behavior. 
 
